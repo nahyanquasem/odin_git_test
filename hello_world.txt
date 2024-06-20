@@ -1,3 +1,4 @@
 this is line 1 for the first commit
 this is line 2 for the second commit
 this is line 3 for the third commit
+this is line 4 for the fourth commit
