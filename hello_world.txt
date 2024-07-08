@@ -10,3 +10,5 @@ this will be the main branch
 2024-07-06 this is a new line of text at date from WSL2 ubuntu @ LAB5-PC0040
 2024-07-06 9:17PM quasem@XUBUNTU-OS
 2024-07-07 7:47AM ubuntu@LAB5-PC0040
+2024-07-08 8:02AM ubuntu@LAB5-PC0040
+
